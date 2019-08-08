@@ -1,7 +1,7 @@
 {
-  "name": "microweber/microweber",
+  "name": "tinindja/microweber-for-laravel-5.8",
   "type": "application",
-  "description": "New generation CMS with drag and drop",
+  "description": "Microweber for laravel 5.8",
   "keywords": [
     "cms",
     "drag and drop",
@@ -93,7 +93,6 @@
   "homepage": "http://microweber.com",
   "license": "MIT",
   "support": {
-    "email": "support@microweber.com",
-    "irc": "irc://irc.freenode.org/microweber"
+    "email": "k.timmy@gmail.com"
   }
 }
