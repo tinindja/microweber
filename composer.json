@@ -90,6 +90,7 @@
     ]
   },
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "homepage": "http://microweber.com",
   "license": "MIT",
   "support": {
